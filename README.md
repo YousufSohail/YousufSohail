@@ -1,8 +1,4 @@
-👋 Hi, I am Yousuf
-
-I am senior mobile engineer at @AirliftTech, which is "the best" team to work with. Aren't they all cute?
-
-![I am mobile engineer at @AirliftTech which is "the best" team to work with. Aren't they cute?](https://i2.wp.com/www.menabytes.com/wp-content/uploads/2020/07/Airlift-Pakistan-D.jpg)
+👋 Hi, I am Yousuf -- senior mobile engineer at @AirliftTech.
 
 I do a lots of Android and little bit of iOS, love all Data Sciences and one Data Scientist 👩🏻‍🎓, Bookaholic 📚, Peripatetic 🧗‍♂️, Coffee ☕️, Cricket 🏏, and a proud Muslim 🕌!
 
